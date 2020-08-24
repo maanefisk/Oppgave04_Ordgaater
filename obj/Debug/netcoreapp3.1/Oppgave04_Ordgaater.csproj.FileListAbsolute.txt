@@ -1,0 +1,14 @@
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\ordliste.txt
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.exe
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.deps.json
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.runtimeconfig.json
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.runtimeconfig.dev.json
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.dll
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\bin\Debug\netcoreapp3.1\Oppgave04_Ordgaater.pdb
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.csprojAssemblyReference.cache
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.AssemblyInfoInputs.cache
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.AssemblyInfo.cs
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.csproj.CoreCompileInputs.cache
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.dll
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.pdb
+E:\Work\_Modul3\Oppgave04_Ordgaater\Oppgave04_Ordgaater\obj\Debug\netcoreapp3.1\Oppgave04_Ordgaater.genruntimeconfig.cache
